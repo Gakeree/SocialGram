@@ -1,4 +1,2 @@
 # SocialGram
-# SocialGram
-# SocialGram
-# SocialGram
+# Mern stack app
